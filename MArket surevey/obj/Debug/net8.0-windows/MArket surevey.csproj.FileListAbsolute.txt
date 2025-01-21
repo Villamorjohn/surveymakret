@@ -1,0 +1,16 @@
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\bin\Debug\net8.0-windows\MArket surevey.exe
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\bin\Debug\net8.0-windows\MArket surevey.deps.json
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\bin\Debug\net8.0-windows\MArket surevey.runtimeconfig.json
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\bin\Debug\net8.0-windows\MArket surevey.dll
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\bin\Debug\net8.0-windows\MArket surevey.pdb
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket_surevey.Form1.resources
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.csproj.GenerateResource.cache
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.AssemblyInfoInputs.cache
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.AssemblyInfo.cs
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.csproj.CoreCompileInputs.cache
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.dll
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\refint\MArket surevey.dll
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.pdb
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\MArket surevey.genruntimeconfig.cache
+C:\Users\L65Y12W39\source\repos\MArket surevey\MArket surevey\obj\Debug\net8.0-windows\ref\MArket surevey.dll
